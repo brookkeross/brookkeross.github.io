@@ -1,3 +1,6 @@
+body{
+    background-color: red;
+}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
