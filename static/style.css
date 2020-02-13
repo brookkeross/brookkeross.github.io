@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
 .body{
     background-color: #ffffff;;
@@ -33,7 +33,7 @@ li a:hover:not(.active) {
   background-color: #ffd11a;
 }
 h1{
-font-family: 'Merienda One', cursive;
+font-family: 'Pattaya', sans-serif;
 }
 body{
 font-family: 'Special Elite', cursive;
