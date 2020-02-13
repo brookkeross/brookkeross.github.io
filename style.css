@@ -9,7 +9,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FF6347;
+  background-color: #ffd11a;
 }
 
 li {
@@ -25,11 +25,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #FFA500;
+  background-color: #ffc34d;
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #ffc34d;
 }
 h1{
 font-family: 'Merienda One', cursive;
