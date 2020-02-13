@@ -1,8 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
 .body{
-    background-color: #ffffff;;
-    font family: caveat
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
+    background-color: #ffffff;;        
 }
 
 ul {
@@ -34,4 +34,8 @@ li a:hover:not(.active) {
 }
 h1{
 font-family: 'Merienda One', cursive;
+}
+{
+body
+font-family: 'Special Elite', cursive;
 }
