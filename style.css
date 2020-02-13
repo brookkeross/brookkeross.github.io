@@ -44,28 +44,9 @@ li a:hover:not(.active) {
   <li><a href="#Work-2">/work-2/">Work in Progress 2</a></li>
   <li><a href="#Presentation">Work in Progress Presentation</a></li>
   <li><a href="#Portfolio">Final Portfolio</a></li>
-  <li style="float:right"><a class="active" href="#about">About</a></li>
+  <li style="float:left"><a class="active" href="#about">About</a></li>
 </ul>
 
 </body>
 </html>
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden 
-  background color: #FF6347
-}
-
-li {
-    float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: left;
-  padding: 14px 16px;
-  text-decoration: none;
-}
