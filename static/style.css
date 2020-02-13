@@ -1,11 +1,51 @@
-body{
-    background-color: #ffffff;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.body{
+    background-color: #ffffff;;
 }
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FF6347;
 }
-ul.main-menu>li {
-    display: inline;
+
+li {
+  float: left;
 }
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#Work-1">/work-1/">Work in Progress 1</a></li>
+  <li><a href="#Work-2">/work-2/">Work in Progress 2</a></li>
+  <li><a href="#Presentation">Work in Progress Presentation</a></li>
+  <li><a href="#Portfolio">Final Portfolio</a></li>
+  <li style="float:left"><a class="active" href="#about">About</a></li>
+</ul>
+
+</body>
+</html>
