@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
 .body{
     background-color: #ffffff;;
 }
@@ -10,7 +10,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffd11a;
+  background-color: #ffc34d;
 }
 
 li {
@@ -26,16 +26,16 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #ffc34d;
+  background-color: #ffd11a;
 }
 
 .active {
-  background-color: #ffc34d;
+  background-color: #ffd11a;
 }
 h1{
 font-family: 'Merienda One', cursive;
 }
 body{
-font-family: 'Merienda One', cursive;
+font-family: 'Special Elite', cursive;
 }
 
