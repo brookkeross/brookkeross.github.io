@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Pattaya|Special+Elite|Domine&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite|Domine&display=swap');
 body{
 font-family: 'Domine', serif;
 }
@@ -32,7 +32,7 @@ li a:hover:not(.active) {
   background-color: #ffd11a;
 }
 h1{
-font-family: 'Pattaya', sans-serif;
+font-family: 'Special Elite', cursive;
 }
 h2, ul{
 font-family: 'Special Elite', cursive;
