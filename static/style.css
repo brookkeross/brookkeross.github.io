@@ -10,10 +10,17 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #ffc34d;
+  
+  
 }
 
-li {
-  float: left;
+.menu {
+	position: sticky;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+	top: 0;
 }
 
 li a {
