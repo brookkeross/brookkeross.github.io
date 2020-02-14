@@ -9,7 +9,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ffc34d;
+  background-color: #ffd11a;
   
   
 }
@@ -21,6 +21,16 @@ ul {
 	align-items: center;
 	height: 60px;
 	top: 0;
+}
+.menu {
+	background: #42A5F5;
+	&__title {
+		margin: 0px 30px;
+	}
+	&__item {
+		display: inline-block;
+		margin: 0px 30px;
+	}
 }
 
 li a {
