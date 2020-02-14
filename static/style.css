@@ -58,14 +58,6 @@ body {
   flex-direction: column;
 }
 
-h1 {
-  font-family: 'Calligraffitti';
-}
-
-h3 {
-  font-family: 'Open Sans';
-}
-
 .sea {
   border: 3px dashed #000;
 }
