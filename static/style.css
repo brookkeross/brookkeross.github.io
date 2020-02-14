@@ -43,16 +43,8 @@ font-family: 'Special Elite', cursive;
 #home{
   margin-left: 200px;
 }
-p.important {
 
-border-style: solid;
-
-border-width: 5px;
-
-border-color: #ffe680;
-
-}
-::selection{background-color: salmon; color: white;}
+{::selection{background-color: salmon; color: white;}
 .parallax > use{
   animation:move-forever 12s linear infinite;
   &:nth-child(1){animation-delay:-2s;}
