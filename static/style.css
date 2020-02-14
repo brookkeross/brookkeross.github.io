@@ -41,4 +41,5 @@ font-family: 'Special Elite', cursive;
   float: left; 
   margin-right: 20px
 }
-.portugal 
+.portugal {width: 250px;
+}
