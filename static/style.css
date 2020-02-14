@@ -1,8 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Special+Elite&display=swap');
-.body{
-    background-color: #ffffff;;
+@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap|Special+Elite&display=swap|Domine&display=swap');
+body{
+font-family: 'Domine', serif;
 }
 
 ul {
@@ -35,6 +34,6 @@ li a:hover:not(.active) {
 h1{
 font-family: 'Pattaya', sans-serif;
 }
-body{
+h2, ul{
 font-family: 'Special Elite', cursive;
 }
