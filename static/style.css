@@ -5,14 +5,10 @@
 }
 
 html, body {
-  height: 3000px;
+
   padding: 0;
   margin: 0;
   font-family: 'Domine', serif;
-  background: url('../brooke.jpeg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: left;
 }
 
 h1, h2 {
