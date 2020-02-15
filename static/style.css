@@ -83,6 +83,6 @@ p {
   margin: 15px;
 }
 
-main {
-  margin: 20px 0;
+nav {
+ overflow: hidden
 }
