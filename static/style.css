@@ -87,6 +87,13 @@ nav {
  overflow: hidden
 }
 
+.author_section {
+  font-family: 'Open Sans', serif;
+  text-transform: uppercase;
+  font-size: 15px;
+  margin: 5px 0;
+}
+
 .design_concept{
   margin: 1000px auto 0 auto;
   width: 800px;
