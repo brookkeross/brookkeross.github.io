@@ -87,6 +87,26 @@ nav {
  overflow: hidden
 }
 
+.design-concept{
+  margin: 1000px auto 0 auto;
+  width: 800px;
+  border: 2px solid #000000;
+  background: #fff;
+  padding: 15px;
+}
+
+.design-concept h1 {
+  float: none;
+}
+
+p {
+  margin: 15px;
+}
+
+nav {
+ overflow: hidden
+}
+
 .LightWaves {
   animation: lightwaves 2s infinite;
   position: relative;
