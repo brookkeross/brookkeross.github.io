@@ -112,6 +112,7 @@ p {
 
 nav {
  overflow: hidden;
+ min-width:1000px;
 }
 
 .photoshop{
