@@ -116,7 +116,7 @@ nav {
 
 .photoshop{
   margin: 1000px auto 0 auto;
-  width: 600px;
+  width: 570px;
   border: 2px solid #000000;
   background: #fff;
   padding: 15px;
@@ -125,6 +125,14 @@ nav {
 .photoshop2{
   margin: 1000px auto 0 auto;
   width: 600px;
+  border: 2px solid #000000;
+  background: #fff;
+  padding: 15px;
+}
+
+.photoshop3{
+  margin: 1000px auto 0 auto;
+  width: 570px;
   border: 2px solid #000000;
   background: #fff;
   padding: 15px;
