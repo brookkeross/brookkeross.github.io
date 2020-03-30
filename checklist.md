@@ -1,8 +1,8 @@
 | Assignment | Status | Date Started | Date Completed | Notes |
 |---|---|---|---|---|
 | Complete Work-in-Progress Submission 2 | submitted | 3/17/2020 | 3/28/2020 | Committed changes on Github and placed link Box folder|
-| Complete Audacity tutorial 1: Editing an Existing Audio File | | | |
-| Complete Audacity tutorial 2: Mixing a Narration with Background Music  | | | |
+| Complete Audacity tutorial 1: Editing an Existing Audio File | complete | 3/30/2020| 3/30/2020 |
+| Complete Audacity tutorial 2: Mixing a Narration with Background Music  | complete | 3/30/20 | 3/30/20 |
 | Complete Audacity tutorial 3: Vocal Removal and Isolation (requires audacity) | | | |
 | Complete Audacity tutorial 4: Looping (requires audacity) | | | |
 | Read Horton and Quesenbery, "A web for everyone" | | | |
