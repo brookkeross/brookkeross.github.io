@@ -5,8 +5,8 @@
 | Complete Audacity tutorial 2: Mixing a Narration with Background Music  | complete | 3/30/20 | 3/30/20 |
 | Complete Audacity tutorial 3: Vocal Removal and Isolation (requires audacity) |complete | 4/1/20 | 4/1/20 |
 | Complete Audacity tutorial 4: Looping (requires audacity) | complete | 4/1/20 | 4/1/20 |
-| Read Horton and Quesenbery, "A web for everyone" |incomplete | 4/6/20 | |
-| Complete Quiz 5 | incomplete | 4/6/20 | |
+| Read Horton and Quesenbery, "A web for everyone" |complete | 4/6/20 | 4/6/20 |
+| Complete Quiz 5 | complete | 4/6/20 | 4/6/20 |
 | Turn in Pecha Kucha screencast/narration | | | |
 | Put your Pecha Kucha slides on your Github pages website | | | |
 | Complete soundscape activity, parts 1 and 2  | | | |
