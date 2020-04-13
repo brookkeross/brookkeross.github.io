@@ -7,8 +7,8 @@
 | Complete Audacity tutorial 4: Looping (requires audacity) | complete | 4/1/20 | 4/1/20 |
 | Read Horton and Quesenbery, "A web for everyone" |complete | 4/6/20 | 4/6/20 |
 | Complete Quiz 5 | complete | 4/6/20 | 4/6/20 |
-| Turn in Pecha Kucha screencast/narration | | | |
-| Put your Pecha Kucha slides on your Github pages website | | | |
+| Turn in Pecha Kucha screencast/narration | | |pecha kucha presented in class |
+| Put your Pecha Kucha slides on your Github pages website |complete | | |
 | Complete soundscape activity, parts 1 and 2  | | | |
 | Complete peer review assignment | | | |
 | Complete final website, including portfolio submission  | | | |
